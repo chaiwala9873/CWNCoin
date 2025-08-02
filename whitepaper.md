@@ -3,7 +3,7 @@
 **Symbol:** CWN  
 **Blockchain:** Ethereum (ERC-20)  
 **Total Supply:** 100,000,000 CWN  
-**Contract Address:** [ADD_YOUR_CONTRACT_ADDRESS_HERE]  
+**Contract Address:** 0x01dFeFBb8ea12f90C2eBE808B6E859791E01F8a1  
 
 ---
 
@@ -30,10 +30,11 @@ To create a global meme token that starts from chai stalls and reaches crypto ex
 
 ## 🔗 Links
 
+
 - [Telegram Group](https://t.me/chaiwalaniku)  
-- [Twitter](https://twitter.com/ChaiWalaNiku)  
-- [GitHub](https://github.com/chaiwala9873/CWNCoin)  
-- [Etherscan](https://etherscan.io/address/ADD_YOUR_CONTRACT_ADDRESS_HERE)
+- [Twitter](https://twitter.com/chaiwalaniku)  
+- [GitHub](https://github.com/chaiwalaniku837/CWNCoin)  
+- [Etherscan](https://etherscan.io/token/0x01dFeFBb8ea12f90C2eBE808B6E859791E01F8a1)
 
 ---
 
