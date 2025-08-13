@@ -1,2 +1,9 @@
-# CWNCoin
-Official GitHub repository of Chai Wala Niku (CWN) Token – Meme + Community Driven Coin on Ethereum
+Token Name, Symbol, Contract Address
+
+Short description
+
+Official website link
+
+Social links (Telegram, Twitter, GitHub)
+
+Whitepaper का link
